@@ -6,7 +6,7 @@
 apt-get update
 apt-get upgrade
 git clone https://github.com/alvinbaby/WhatsPhish
-cd WhatsHack
+cd WhatsPhish
 chmod +x *
 ./setup.sh
 ./Whats.sh
