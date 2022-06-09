@@ -5,7 +5,7 @@
 ```````
 apt-get update
 apt-get upgrade
-git clone https://github.com/cybersmission/WhatsHack.git
+git clone https://github.com/alvinbaby/WhatsPhish
 cd WhatsHack
 chmod +x *
 ./setup.sh
